@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-02T12:44:17.889Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="pDtu6GBSblzfL9HKUgTD" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-03T13:57:45.215Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="smcjNSzt7huqtzsADmIA" type="github">
   <diagram id="0oF8Mijhoo_r9H_1ExTG" name="第 1 页">
     <mxGraphModel dx="1426" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,62 +7,52 @@
         <mxCell id="zHBN3gYHkW5Hnuf-ybck-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="zHBN3gYHkW5Hnuf-ybck-1" target="zHBN3gYHkW5Hnuf-ybck-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zHBN3gYHkW5Hnuf-ybck-4" value="自动化提取工具 xgettext" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="zHBN3gYHkW5Hnuf-ybck-3">
+        <mxCell id="zHBN3gYHkW5Hnuf-ybck-4" value="i18next extractor" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="zHBN3gYHkW5Hnuf-ybck-3">
           <mxGeometry x="-0.275" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zHBN3gYHkW5Hnuf-ybck-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;.js、.jsx、.&lt;br&gt;ts、.tsx、.vue&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zHBN3gYHkW5Hnuf-ybck-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="zHBN3gYHkW5Hnuf-ybck-1" target="zHBN3gYHkW5Hnuf-ybck-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zHBN3gYHkW5Hnuf-ybck-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;源代码&lt;br&gt;.js、.jsx、.&lt;br&gt;ts、.tsx、.vue&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="150" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zHBN3gYHkW5Hnuf-ybck-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zHBN3gYHkW5Hnuf-ybck-2" target="zHBN3gYHkW5Hnuf-ybck-5">
+        <mxCell id="zHBN3gYHkW5Hnuf-ybck-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="zHBN3gYHkW5Hnuf-ybck-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="430" as="targetPoint" />
+            <mxPoint x="390" y="505" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zHBN3gYHkW5Hnuf-ybck-15" value="msginit" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="zHBN3gYHkW5Hnuf-ybck-9">
-          <mxGeometry x="0.7017" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="zHBN3gYHkW5Hnuf-ybck-34" value="i18next-conv" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="zHBN3gYHkW5Hnuf-ybck-10">
+          <mxGeometry x="-0.2783" y="2" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zHBN3gYHkW5Hnuf-ybck-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="zHBN3gYHkW5Hnuf-ybck-2" target="zHBN3gYHkW5Hnuf-ybck-6">
+        <mxCell id="zHBN3gYHkW5Hnuf-ybck-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" edge="1" parent="1" source="zHBN3gYHkW5Hnuf-ybck-2" target="zHBN3gYHkW5Hnuf-ybck-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zHBN3gYHkW5Hnuf-ybck-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="zHBN3gYHkW5Hnuf-ybck-2" target="zHBN3gYHkW5Hnuf-ybck-7">
+        <mxCell id="zHBN3gYHkW5Hnuf-ybck-2" value="zh_CN/translation.json&lt;br&gt;...&lt;br&gt;en/translation.json" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="295" y="310" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zHBN3gYHkW5Hnuf-ybck-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="zHBN3gYHkW5Hnuf-ybck-35" target="zHBN3gYHkW5Hnuf-ybck-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zHBN3gYHkW5Hnuf-ybck-19" value="msgmerge" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="zHBN3gYHkW5Hnuf-ybck-11">
-          <mxGeometry x="0.8373" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zHBN3gYHkW5Hnuf-ybck-2" value="tranlation.pot" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="330" y="310" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="zHBN3gYHkW5Hnuf-ybck-5" value="en.po" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="150" y="505" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="zHBN3gYHkW5Hnuf-ybck-6" value="de.po" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="zHBN3gYHkW5Hnuf-ybck-35" value=".po、.pot" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="330" y="505" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zHBN3gYHkW5Hnuf-ybck-7" value="fr.po" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="510" y="505" width="120" height="80" as="geometry" />
+        <mxCell id="zHBN3gYHkW5Hnuf-ybck-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="zHBN3gYHkW5Hnuf-ybck-35" target="zHBN3gYHkW5Hnuf-ybck-35">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zHBN3gYHkW5Hnuf-ybck-14" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=14;entryX=0.717;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="zHBN3gYHkW5Hnuf-ybck-7">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="630" y="540" as="sourcePoint" />
-            <mxPoint x="580" y="500" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="680" y="540" />
-              <mxPoint x="660" y="500" />
-              <mxPoint x="630" y="490" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zHBN3gYHkW5Hnuf-ybck-30" value="msgmerge" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="zHBN3gYHkW5Hnuf-ybck-14">
-          <mxGeometry x="0.4088" relative="1" as="geometry">
+        <mxCell id="zHBN3gYHkW5Hnuf-ybck-57" value="poeditor等翻译工具" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="zHBN3gYHkW5Hnuf-ybck-56">
+          <mxGeometry x="0.2222" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zHBN3gYHkW5Hnuf-ybck-61" value="&lt;h1&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;源码中支持以中文作为 key&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&amp;nbsp;&amp;lt;div&amp;gt;{t(&#39;你好&#39;)}&amp;lt;/div&amp;gt;.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&amp;lt;div&amp;gt;{t(&#39;基于GNU Gettext的国际化方案&#39;)}&amp;lt;/div&amp;gt;.&lt;br style=&quot;text-align: left;&quot;&gt;&lt;/p&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="520" y="50" width="255" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="zHBN3gYHkW5Hnuf-ybck-63" value="&lt;h1&gt;&lt;span style=&quot;font-size: 14px; font-weight: 400;&quot;&gt;对于Web应用来说，json是最优雅的数据格式。&lt;/span&gt;&lt;/h1&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="520" y="285" width="190" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
